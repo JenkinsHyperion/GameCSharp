@@ -431,7 +431,7 @@ namespace Game1.Physics
 
         public static Point2D relativePointRotatedBy(Point p, double radians)
         {
-            ffffffffffffffffffffff ddddd
+
             double returnX = p.x;
             double returnY = p.y;
 
